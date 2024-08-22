@@ -1,6 +1,6 @@
 
 # 💫 About Me:
-<br>- 🔭 I’m currently working on **jetsetmed Website**<br><br>- 🌱 I’m currently learning **Nodejs**<br><br>- 💬 Ask me about **DSA, MEARN**<br><br>- 📫 How to reach me **kumarimansi523@gmail.com**<br><br>- ⚡ Fun fact **I am not Funny**
+<br>- 🌱 I’m currently learning **Nodejs**<br><br>- 💬 Ask me about **DSA, MEARN**<br><br>- 📫 How to reach me **kumarimansi523@gmail.com**<br><br>- ⚡ Fun fact **I am not Funny**
 
 
 ## 🌐 Socials:
